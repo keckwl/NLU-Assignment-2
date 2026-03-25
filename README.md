@@ -1,5 +1,9 @@
 # NLU-Assignment-2
 
+## setup
+
+pip install -r requirements.txt
+
 ## Problem 1 — Word Embeddings
 
 cd problem1
