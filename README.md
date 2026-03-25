@@ -1,6 +1,6 @@
 # NLU-Assignment-2
 
-## setup
+## Setup
 
 pip install -r requirements.txt
 
